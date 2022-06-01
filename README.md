@@ -10,9 +10,5 @@
 - - Reddit: <a href="https://reddit.com/u/_waifus_empire_">```u/_waifus_empire_```</a><br>
 - - Tiktok: <a href="https://vm.tiktok.com/ZMLoVQjf6/">```_waifus_empire_```</a><br>
 - - Facebook: ```Dvalin Tempest```<br>
-- - Email: ```waifusempire@gmail.com```
-
-<!---
-waifusempire/waifusempire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- - Email: ```waifusempire@gmail.com```<br>
+- - Discord Server: <a href="https://discord.gg/WvZb5KTzeR">```Server```</a><br>
